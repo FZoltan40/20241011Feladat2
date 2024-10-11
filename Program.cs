@@ -31,9 +31,32 @@ namespace Feladat2
                 Console.WriteLine("Jó estét.");
             }
         }
+        public static double kamat()
+        {
+            double megtakaritas=0;
+            double betet;
+            double kamat;
+            int ev;
+
+            Console.Write("Kérem a betét összegét: ");
+            betet = int.Parse(Console.ReadLine());
+            Console.Write("Kérem a kamatot: ");
+            kamat = int.Parse(Console.ReadLine());
+            Console.Write("Kérem a megtakarítás hosszát: ");
+            ev = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < ev; i++)
+            {
+                megtakaritas = (betet*(kamat)/100);
+                betet= betet + megtakaritas;
+            }
+
+            return megtakaritas;
+        }
         static void Main(string[] args)
         {
-            koszon();
+            //koszon();
+            Console.WriteLine(kamat());
         }
     }
 }
