@@ -1,0 +1,7 @@
+C:\Users\FarkasZ\GitWork\Feladat2\bin\Debug\Feladat2.exe.config
+C:\Users\FarkasZ\GitWork\Feladat2\bin\Debug\Feladat2.exe
+C:\Users\FarkasZ\GitWork\Feladat2\bin\Debug\Feladat2.pdb
+C:\Users\FarkasZ\GitWork\Feladat2\obj\Debug\Feladat2.csproj.AssemblyReference.cache
+C:\Users\FarkasZ\GitWork\Feladat2\obj\Debug\Feladat2.csproj.CoreCompileInputs.cache
+C:\Users\FarkasZ\GitWork\Feladat2\obj\Debug\Feladat2.exe
+C:\Users\FarkasZ\GitWork\Feladat2\obj\Debug\Feladat2.pdb
